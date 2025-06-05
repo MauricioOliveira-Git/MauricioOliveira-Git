@@ -16,14 +16,10 @@ Este repositório exibe minhas estatísticas do GitHub usando o projeto [github-
 
 ## 💻 Minhas Estatísticas
 
-### Versão com ícones e tema radical
 
 [![MauricioFilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioFilho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Ocultando estatísticas específicas
 
-```md
-![Stats escondendo contribuições e PRs](https://github-readme-stats.vercel.app/api?username=MauricioFilho&hide=contribs,prs&show_icons=true&theme=radical)
 
   ##
  
