@@ -10,7 +10,20 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  ![Stats com extras](https://github-readme-stats.vercel.app/api?username=MauricioFilho&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
+# 📈 GitHub Readme Stats - MauricioFilho
+
+Este repositório exibe minhas estatísticas do GitHub usando o projeto [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+
+## 💻 Minhas Estatísticas
+
+### Versão com ícones e tema radical
+
+[![MauricioFilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioFilho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Ocultando estatísticas específicas
+
+```md
+![Stats escondendo contribuições e PRs](https://github-readme-stats.vercel.app/api?username=MauricioFilho&hide=contribs,prs&show_icons=true&theme=radical)
 
   ##
  
