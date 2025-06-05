@@ -14,13 +14,9 @@ Sou desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em 
 
 ## 💻 Minhas Estatísticas
 
-![GitHub stats](https://github-readme-stats-egmx.vercel.app/api?username=MauricioOliveira-Git&show_icons=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats-egmx.vercel.app/api/top-langs/?username=MauricioOliveira-Git&layout=compact)
 
----
-
-![GitHub stats](https://github-readme-stats-zifq.vercel.app/api?username=MauricioOliveira-Git&show_icons=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats-zifq.vercel.app/api/top-langs/?username=MauricioOliveira-Git&layout=compact)
+![GitHub stats](https://github-readme-stats-yrdr.vercel.app/api?username=MauricioOliveira-Git&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats-yrdr.vercel.app/api/top-langs/?username=MauricioOliveira-Git&layout=compact)
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seulinkedin)](https://www.linkedin.com/in/seulinkedin)
