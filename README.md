@@ -19,7 +19,6 @@ Sou desenvolvedor Front-end. Tenho experiência em JavaScript, TypeScript, HTML,
 ![Top Langs](https://github-readme-stats-yrdr.vercel.app/api/top-langs/?username=MauricioOliveira-Git&layout=compact)
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seulinkedin)](https://www.linkedin.com/in/seulinkedin)
-[![E-mail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:seuemail@email.com)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mauriciolveira-filho/)](https://www.linkedin.com/in/mauriciolveira-filho/)
+[![E-mail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:mauricioliveirafilho10@gmail.com)](mailto:mauricioliveirafilho10@gmail.com)
 ---
