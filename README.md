@@ -1,11 +1,12 @@
 ## 👋 Olá! Meu nome é Mauricio de Oliveira Filho
 
-Sou desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em JavaScript, TypeScript, HTML, CSS,Vue e C#.
+Sou desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em JavaScript, TypeScript, HTML, CSS, Vue e C#.
 
 ### 🚀 Tecnologias que uso no meu dia a dia
 <div style="display: inline_block"><br>
   <img align="center" alt="Mauricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mauricio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/typescript-plain.svg">
+  <img align="center" alt="Mauricio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Mauricio-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Mauricio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mauricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mauricio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
