@@ -1,6 +1,6 @@
 ## 👋 Olá! Meu nome é Mauricio de Oliveira Filho
 
-Sou desenvolvedor Front-end. Tenho experiência em JavaScript, Nest,Vue, HTML, CSS  e C#.
+Sou desenvolvedor Front-end. Tenho experiência em JavaScript, Nest, HTML, CSS, Vue e C#.
 
 ### 🚀 Tecnologias que uso no meu dia a dia
 <div style="display: inline_block"><br>
