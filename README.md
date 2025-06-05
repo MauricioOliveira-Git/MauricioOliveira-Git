@@ -1,6 +1,6 @@
 ## 👋 Olá! Meu nome é Mauricio de Oliveira Filho
 
-Sou desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em JavaScript, TypeScript, HTML, CSS, Vue e C#.
+Sou desenvolvedor Front-end. Tenho experiência em JavaScript, TypeScript, HTML, CSS, Vue e C#.
 
 ### 🚀 Tecnologias que uso no meu dia a dia
 <div style="display: inline_block"><br>
