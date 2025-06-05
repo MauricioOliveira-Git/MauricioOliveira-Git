@@ -11,13 +11,11 @@ Sou desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em 
   <img align="center" alt="Mauricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mauricio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-![GitHub stats](https://github-readme-stats-egmx.vercel.app/api?username=MauricioOliveira-Git&show_icons=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats-egmx.vercel.app/api/top-langs/?username=MauricioOliveira-Git&layout=compact)
 
 ## 💻 Minhas Estatísticas
 
-[![MauricioOliveira-Git’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioOliveira-Git&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioOliveira-Git&layout=compact)
+![GitHub stats](https://github-readme-stats-egmx.vercel.app/api?username=MauricioOliveira-Git&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats-egmx.vercel.app/api/top-langs/?username=MauricioOliveira-Git&layout=compact)
 
 ---
 
