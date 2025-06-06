@@ -14,8 +14,8 @@ Sou desenvolvedor Front-end. Tenho experiência em JavaScript, Nest, HTML, CSS, 
 
 ## 💻 Minhas Estatísticas
 
-![GitHub stats](https://github-readme-stats-yrdr.vercel.app/api?username=MauricioOliveira-Git&show_icons=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats-yrdr.vercel.app/api/top-langs/?username=MauricioOliveira-Git&layout=compact)
+![GitHub stats](https://github-readme-stats-gqtn.vercel.app/api?username=MauricioOliveira-Git&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats-gqtn.vercel.app/api/top-langs/?username=MauricioOliveira-Git&layout=compact)
 
 ### 📫 Como me encontrar
 
